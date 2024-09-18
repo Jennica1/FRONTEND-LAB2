@@ -1,0 +1,17 @@
+.card {
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+.information {
+
+}
+.photo {
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.app {
+    align-items: center;
+}

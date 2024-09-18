@@ -1,0 +1,5 @@
+.card {
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    margin: 10px;
+}

@@ -1,0 +1,12 @@
+.card {
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+.information {
+    margin: 10px;
+}
+.photo {
+    border-radius: 50%;
+}
